@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enable_gps">Your GPS seems to be disabled, do you want to enable it?</string>
+    <string name="enable_permission">Please Allow App to use current location</string>
+    <string name="ok">Settings</string>
+    <string name="no">No</string>
+    <string name="request_permission">REQUEST PERMISSION</string>
+    <string name="request_gps">REQUEST GPS</string>
+    <string name="search_hint">Search for a city</string>
+</resources>

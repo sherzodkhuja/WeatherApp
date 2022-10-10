@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="darkerPrimary">#070445</color>
+    <color name="lighterPrimary">#181461</color>
+    <color name="lightestPrimary">#302C77</color>
+    <color name="colorSecondary">#2D639E</color>
+    <color name="stroke">#393E6B</color>
+    <color name="grey">#D80B325E</color>
+    <color name="mainSecondary">#575495</color>
+    <color name="textColorSecondary">#6FA7E4</color>
+    <color name="textColorLighter">#F0F0F0</color>
+</resources>
